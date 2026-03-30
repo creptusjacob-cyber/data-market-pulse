@@ -40,8 +40,9 @@ Le projet est conçu comme un pipeline ELT (Extract, Load, Transform) moderne, e
 ## Auteur
 
 **Créptus-Jacob GONDJE-DACKA**
+* Étudiant en Informatique @ Polytech Nantes
 - **LinkedIn**: [Profil professionnel](https://www.linkedin.com/in/créptus-jacob-gondje)
-- **GitHub**: [Mon Portfolio](https://github.com/CreptusJacob) *(à adapter avec ton pseudo)*
+
 
 ---
 *Projet réalisé dans le cadre d'une montée en compétence sur l'Ingénierie Data & les LLM locaux.*
