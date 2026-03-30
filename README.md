@@ -1,4 +1,4 @@
-# 📊 Data Market Pulse : L'Observatoire IA du Marché Data Engineer
+# Data Market Pulse : L'Observatoire IA du Marché Data Engineer
 
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![IA](https://img.shields.io/badge/IA%20Locale-Mistral--7B-orange.svg)
@@ -37,9 +37,9 @@ Le projet est conçu comme un pipeline ELT (Extract, Load, Transform) moderne, e
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
-**Créptus Jacob GONDJE DACKA**
+**Créptus-Jacob GONDJE-DACKA**
 - **LinkedIn**: [Profil professionnel](https://www.linkedin.com/in/créptus-jacob-gondje)
 - **GitHub**: [Mon Portfolio](https://github.com/CreptusJacob) *(à adapter avec ton pseudo)*
 
