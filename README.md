@@ -13,7 +13,7 @@ Ce projet est un outil d'intelligence du marché qui transforme des milliers d'o
 ## 💻 Aperçu du Dashboard
 
 ![Aperçu interactif du dashboard Streamlit](dashboard.png)
-*Figure 1 : Interface moderne avec filtres dynamiques, KPI cards et répartition géographique.*
+*Interface moderne avec filtres dynamiques, KPI cards et répartition géographique.*
 
 ---
 
