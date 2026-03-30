@@ -1,0 +1,10 @@
+# Fichiers système
+.DS_Store
+__pycache__/
+
+# Environnement virtuel 
+venv/
+env/
+
+# Fichiers de données volumineux 
+*.log
